@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jc-app-rn",
+    "slug": "jc-app-rn"
+  }
+}
